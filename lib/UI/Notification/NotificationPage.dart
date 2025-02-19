@@ -45,6 +45,9 @@ class _NotificationPageState extends State<NotificationPage> {
 
     return SafeArea(
       child: Scaffold(
+        appBar:AppBar(
+          title:Text('Notification'),
+        ),
         body: StreamBuilder(
           stream: notificationService.instilize(),
           builder: (context, snapshot) {
