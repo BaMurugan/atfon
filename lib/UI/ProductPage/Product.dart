@@ -127,7 +127,7 @@ class _ProductPageState extends State<ProductPage> {
                           const SizedBox(width: 3),
                           customButton(
                               color: Theme.of(context).colorScheme.primary,
-                              title: const Text("Clear"),
+                              title: const Text("Clear All"),
                               onTap: () {
                                 productController.selectedProduct.clear();
                                 productController.update();
