@@ -1,0 +1,2 @@
+G:/Program/Flutter/atofon_seller/android/app/.cxx/RelWithDebInfo/3f1c2j6s/x86/CMakeFiles/edit_cache.dir
+G:/Program/Flutter/atofon_seller/android/app/.cxx/RelWithDebInfo/3f1c2j6s/x86/CMakeFiles/rebuild_cache.dir
